@@ -169,3 +169,7 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+# added ds_store and apikey
+.DS_Store
+api_keys.py
